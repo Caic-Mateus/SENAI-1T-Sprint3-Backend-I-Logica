@@ -1,0 +1,13 @@
+C:\Users\caicm\Desktop\Lista de Exercicios Fixação\EX 3\bin\Debug\netcoreapp3.1\EX 3.exe
+C:\Users\caicm\Desktop\Lista de Exercicios Fixação\EX 3\bin\Debug\netcoreapp3.1\EX 3.deps.json
+C:\Users\caicm\Desktop\Lista de Exercicios Fixação\EX 3\bin\Debug\netcoreapp3.1\EX 3.runtimeconfig.json
+C:\Users\caicm\Desktop\Lista de Exercicios Fixação\EX 3\bin\Debug\netcoreapp3.1\EX 3.runtimeconfig.dev.json
+C:\Users\caicm\Desktop\Lista de Exercicios Fixação\EX 3\bin\Debug\netcoreapp3.1\EX 3.dll
+C:\Users\caicm\Desktop\Lista de Exercicios Fixação\EX 3\bin\Debug\netcoreapp3.1\EX 3.pdb
+C:\Users\caicm\Desktop\Lista de Exercicios Fixação\EX 3\obj\Debug\netcoreapp3.1\EX 3.csprojAssemblyReference.cache
+C:\Users\caicm\Desktop\Lista de Exercicios Fixação\EX 3\obj\Debug\netcoreapp3.1\EX 3.AssemblyInfoInputs.cache
+C:\Users\caicm\Desktop\Lista de Exercicios Fixação\EX 3\obj\Debug\netcoreapp3.1\EX 3.AssemblyInfo.cs
+C:\Users\caicm\Desktop\Lista de Exercicios Fixação\EX 3\obj\Debug\netcoreapp3.1\EX 3.csproj.CoreCompileInputs.cache
+C:\Users\caicm\Desktop\Lista de Exercicios Fixação\EX 3\obj\Debug\netcoreapp3.1\EX 3.dll
+C:\Users\caicm\Desktop\Lista de Exercicios Fixação\EX 3\obj\Debug\netcoreapp3.1\EX 3.pdb
+C:\Users\caicm\Desktop\Lista de Exercicios Fixação\EX 3\obj\Debug\netcoreapp3.1\EX 3.genruntimeconfig.cache

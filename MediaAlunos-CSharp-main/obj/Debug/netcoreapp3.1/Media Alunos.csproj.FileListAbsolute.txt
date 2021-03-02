@@ -1,0 +1,13 @@
+C:\Users\caicm\Desktop\Media Alunos\bin\Debug\netcoreapp3.1\Media Alunos.exe
+C:\Users\caicm\Desktop\Media Alunos\bin\Debug\netcoreapp3.1\Media Alunos.deps.json
+C:\Users\caicm\Desktop\Media Alunos\bin\Debug\netcoreapp3.1\Media Alunos.runtimeconfig.json
+C:\Users\caicm\Desktop\Media Alunos\bin\Debug\netcoreapp3.1\Media Alunos.runtimeconfig.dev.json
+C:\Users\caicm\Desktop\Media Alunos\bin\Debug\netcoreapp3.1\Media Alunos.dll
+C:\Users\caicm\Desktop\Media Alunos\bin\Debug\netcoreapp3.1\Media Alunos.pdb
+C:\Users\caicm\Desktop\Media Alunos\obj\Debug\netcoreapp3.1\Media Alunos.csprojAssemblyReference.cache
+C:\Users\caicm\Desktop\Media Alunos\obj\Debug\netcoreapp3.1\Media Alunos.AssemblyInfoInputs.cache
+C:\Users\caicm\Desktop\Media Alunos\obj\Debug\netcoreapp3.1\Media Alunos.AssemblyInfo.cs
+C:\Users\caicm\Desktop\Media Alunos\obj\Debug\netcoreapp3.1\Media Alunos.csproj.CoreCompileInputs.cache
+C:\Users\caicm\Desktop\Media Alunos\obj\Debug\netcoreapp3.1\Media Alunos.dll
+C:\Users\caicm\Desktop\Media Alunos\obj\Debug\netcoreapp3.1\Media Alunos.pdb
+C:\Users\caicm\Desktop\Media Alunos\obj\Debug\netcoreapp3.1\Media Alunos.genruntimeconfig.cache

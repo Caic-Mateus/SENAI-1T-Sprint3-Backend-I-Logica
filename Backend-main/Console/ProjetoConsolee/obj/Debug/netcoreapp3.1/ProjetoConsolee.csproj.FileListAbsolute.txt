@@ -1,0 +1,13 @@
+C:\Users\caicm\Desktop\SENAI\Backend\Console\ProjetoConsolee\bin\Debug\netcoreapp3.1\ProjetoConsolee.exe
+C:\Users\caicm\Desktop\SENAI\Backend\Console\ProjetoConsolee\bin\Debug\netcoreapp3.1\ProjetoConsolee.deps.json
+C:\Users\caicm\Desktop\SENAI\Backend\Console\ProjetoConsolee\bin\Debug\netcoreapp3.1\ProjetoConsolee.runtimeconfig.json
+C:\Users\caicm\Desktop\SENAI\Backend\Console\ProjetoConsolee\bin\Debug\netcoreapp3.1\ProjetoConsolee.runtimeconfig.dev.json
+C:\Users\caicm\Desktop\SENAI\Backend\Console\ProjetoConsolee\bin\Debug\netcoreapp3.1\ProjetoConsolee.dll
+C:\Users\caicm\Desktop\SENAI\Backend\Console\ProjetoConsolee\bin\Debug\netcoreapp3.1\ProjetoConsolee.pdb
+C:\Users\caicm\Desktop\SENAI\Backend\Console\ProjetoConsolee\obj\Debug\netcoreapp3.1\ProjetoConsolee.csprojAssemblyReference.cache
+C:\Users\caicm\Desktop\SENAI\Backend\Console\ProjetoConsolee\obj\Debug\netcoreapp3.1\ProjetoConsolee.AssemblyInfoInputs.cache
+C:\Users\caicm\Desktop\SENAI\Backend\Console\ProjetoConsolee\obj\Debug\netcoreapp3.1\ProjetoConsolee.AssemblyInfo.cs
+C:\Users\caicm\Desktop\SENAI\Backend\Console\ProjetoConsolee\obj\Debug\netcoreapp3.1\ProjetoConsolee.csproj.CoreCompileInputs.cache
+C:\Users\caicm\Desktop\SENAI\Backend\Console\ProjetoConsolee\obj\Debug\netcoreapp3.1\ProjetoConsolee.dll
+C:\Users\caicm\Desktop\SENAI\Backend\Console\ProjetoConsolee\obj\Debug\netcoreapp3.1\ProjetoConsolee.pdb
+C:\Users\caicm\Desktop\SENAI\Backend\Console\ProjetoConsolee\obj\Debug\netcoreapp3.1\ProjetoConsolee.genruntimeconfig.cache

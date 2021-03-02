@@ -1,0 +1,13 @@
+C:\Users\caicm\Desktop\ProdutosCaic\bin\Debug\netcoreapp3.1\kkls.exe
+C:\Users\caicm\Desktop\ProdutosCaic\bin\Debug\netcoreapp3.1\kkls.deps.json
+C:\Users\caicm\Desktop\ProdutosCaic\bin\Debug\netcoreapp3.1\kkls.runtimeconfig.json
+C:\Users\caicm\Desktop\ProdutosCaic\bin\Debug\netcoreapp3.1\kkls.runtimeconfig.dev.json
+C:\Users\caicm\Desktop\ProdutosCaic\bin\Debug\netcoreapp3.1\kkls.dll
+C:\Users\caicm\Desktop\ProdutosCaic\bin\Debug\netcoreapp3.1\kkls.pdb
+C:\Users\caicm\Desktop\ProdutosCaic\obj\Debug\netcoreapp3.1\kkls.csprojAssemblyReference.cache
+C:\Users\caicm\Desktop\ProdutosCaic\obj\Debug\netcoreapp3.1\kkls.AssemblyInfoInputs.cache
+C:\Users\caicm\Desktop\ProdutosCaic\obj\Debug\netcoreapp3.1\kkls.AssemblyInfo.cs
+C:\Users\caicm\Desktop\ProdutosCaic\obj\Debug\netcoreapp3.1\kkls.csproj.CoreCompileInputs.cache
+C:\Users\caicm\Desktop\ProdutosCaic\obj\Debug\netcoreapp3.1\kkls.dll
+C:\Users\caicm\Desktop\ProdutosCaic\obj\Debug\netcoreapp3.1\kkls.pdb
+C:\Users\caicm\Desktop\ProdutosCaic\obj\Debug\netcoreapp3.1\kkls.genruntimeconfig.cache

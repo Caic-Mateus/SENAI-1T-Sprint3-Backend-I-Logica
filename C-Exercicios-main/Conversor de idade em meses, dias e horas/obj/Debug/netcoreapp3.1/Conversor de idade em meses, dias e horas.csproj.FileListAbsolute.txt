@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\C#\Conversor de idade em meses, dias e horas\bin\Debug\netcoreapp3.1\Conversor de idade em meses, dias e horas.exe
+C:\Users\dev\Desktop\C#\Conversor de idade em meses, dias e horas\bin\Debug\netcoreapp3.1\Conversor de idade em meses, dias e horas.deps.json
+C:\Users\dev\Desktop\C#\Conversor de idade em meses, dias e horas\bin\Debug\netcoreapp3.1\Conversor de idade em meses, dias e horas.runtimeconfig.json
+C:\Users\dev\Desktop\C#\Conversor de idade em meses, dias e horas\bin\Debug\netcoreapp3.1\Conversor de idade em meses, dias e horas.runtimeconfig.dev.json
+C:\Users\dev\Desktop\C#\Conversor de idade em meses, dias e horas\bin\Debug\netcoreapp3.1\Conversor de idade em meses, dias e horas.dll
+C:\Users\dev\Desktop\C#\Conversor de idade em meses, dias e horas\bin\Debug\netcoreapp3.1\Conversor de idade em meses, dias e horas.pdb
+C:\Users\dev\Desktop\C#\Conversor de idade em meses, dias e horas\obj\Debug\netcoreapp3.1\Conversor de idade em meses, dias e horas.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\C#\Conversor de idade em meses, dias e horas\obj\Debug\netcoreapp3.1\Conversor de idade em meses, dias e horas.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\C#\Conversor de idade em meses, dias e horas\obj\Debug\netcoreapp3.1\Conversor de idade em meses, dias e horas.AssemblyInfo.cs
+C:\Users\dev\Desktop\C#\Conversor de idade em meses, dias e horas\obj\Debug\netcoreapp3.1\Conversor de idade em meses, dias e horas.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\C#\Conversor de idade em meses, dias e horas\obj\Debug\netcoreapp3.1\Conversor de idade em meses, dias e horas.dll
+C:\Users\dev\Desktop\C#\Conversor de idade em meses, dias e horas\obj\Debug\netcoreapp3.1\Conversor de idade em meses, dias e horas.pdb
+C:\Users\dev\Desktop\C#\Conversor de idade em meses, dias e horas\obj\Debug\netcoreapp3.1\Conversor de idade em meses, dias e horas.genruntimeconfig.cache

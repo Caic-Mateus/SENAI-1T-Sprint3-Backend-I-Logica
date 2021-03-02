@@ -1,0 +1,13 @@
+C:\Users\caicm\Desktop\Backend\console\semaforo\bin\Debug\netcoreapp3.1\semaforo.exe
+C:\Users\caicm\Desktop\Backend\console\semaforo\bin\Debug\netcoreapp3.1\semaforo.deps.json
+C:\Users\caicm\Desktop\Backend\console\semaforo\bin\Debug\netcoreapp3.1\semaforo.runtimeconfig.json
+C:\Users\caicm\Desktop\Backend\console\semaforo\bin\Debug\netcoreapp3.1\semaforo.runtimeconfig.dev.json
+C:\Users\caicm\Desktop\Backend\console\semaforo\bin\Debug\netcoreapp3.1\semaforo.dll
+C:\Users\caicm\Desktop\Backend\console\semaforo\bin\Debug\netcoreapp3.1\semaforo.pdb
+C:\Users\caicm\Desktop\Backend\console\semaforo\obj\Debug\netcoreapp3.1\semaforo.csprojAssemblyReference.cache
+C:\Users\caicm\Desktop\Backend\console\semaforo\obj\Debug\netcoreapp3.1\semaforo.AssemblyInfoInputs.cache
+C:\Users\caicm\Desktop\Backend\console\semaforo\obj\Debug\netcoreapp3.1\semaforo.AssemblyInfo.cs
+C:\Users\caicm\Desktop\Backend\console\semaforo\obj\Debug\netcoreapp3.1\semaforo.csproj.CoreCompileInputs.cache
+C:\Users\caicm\Desktop\Backend\console\semaforo\obj\Debug\netcoreapp3.1\semaforo.dll
+C:\Users\caicm\Desktop\Backend\console\semaforo\obj\Debug\netcoreapp3.1\semaforo.pdb
+C:\Users\caicm\Desktop\Backend\console\semaforo\obj\Debug\netcoreapp3.1\semaforo.genruntimeconfig.cache

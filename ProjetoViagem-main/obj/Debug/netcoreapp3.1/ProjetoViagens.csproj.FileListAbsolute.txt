@@ -1,0 +1,13 @@
+C:\Users\caicm\Desktop\ProjetoViagens\bin\Debug\netcoreapp3.1\ProjetoViagens.exe
+C:\Users\caicm\Desktop\ProjetoViagens\bin\Debug\netcoreapp3.1\ProjetoViagens.deps.json
+C:\Users\caicm\Desktop\ProjetoViagens\bin\Debug\netcoreapp3.1\ProjetoViagens.runtimeconfig.json
+C:\Users\caicm\Desktop\ProjetoViagens\bin\Debug\netcoreapp3.1\ProjetoViagens.runtimeconfig.dev.json
+C:\Users\caicm\Desktop\ProjetoViagens\bin\Debug\netcoreapp3.1\ProjetoViagens.dll
+C:\Users\caicm\Desktop\ProjetoViagens\bin\Debug\netcoreapp3.1\ProjetoViagens.pdb
+C:\Users\caicm\Desktop\ProjetoViagens\obj\Debug\netcoreapp3.1\ProjetoViagens.csprojAssemblyReference.cache
+C:\Users\caicm\Desktop\ProjetoViagens\obj\Debug\netcoreapp3.1\ProjetoViagens.AssemblyInfoInputs.cache
+C:\Users\caicm\Desktop\ProjetoViagens\obj\Debug\netcoreapp3.1\ProjetoViagens.AssemblyInfo.cs
+C:\Users\caicm\Desktop\ProjetoViagens\obj\Debug\netcoreapp3.1\ProjetoViagens.csproj.CoreCompileInputs.cache
+C:\Users\caicm\Desktop\ProjetoViagens\obj\Debug\netcoreapp3.1\ProjetoViagens.dll
+C:\Users\caicm\Desktop\ProjetoViagens\obj\Debug\netcoreapp3.1\ProjetoViagens.pdb
+C:\Users\caicm\Desktop\ProjetoViagens\obj\Debug\netcoreapp3.1\ProjetoViagens.genruntimeconfig.cache
